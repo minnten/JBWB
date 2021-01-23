@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":10,
  "infinite":false,
  "layers":[
@@ -48,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"EG.json"
+                 "value":"EG.json#sGR1"
                 }],
          "type":"tilelayer",
          "visible":true,

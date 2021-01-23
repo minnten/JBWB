@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"EG.json"
+                 "value":"EG.json#sSP"
                 }],
          "type":"tilelayer",
          "visible":true,
